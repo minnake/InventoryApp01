@@ -1,6 +1,4 @@
-# InventoryApp01
-
-Inventory App, Stage 1 
+# Inventory App, Stage 1 
 
 Project Overview 
 
@@ -44,7 +42,3 @@ Then, create 2 methods that insert and read data to/from your database. These 2 
 The single insert method that adds at least two values of two different datatypes (e.g. INTEGER, STRING) into the database using a ContentValues object and the insert() method. 
 
 Note: Even though UI is not required for this Stage, we highly recommend that you test your insert/read methods with log calls or displaying the data in a TextView. Often, students do not realize their code has SQL syntax errors until the app is run and the methods are called. 
-
-Additional Criteria 
-
-The intent of this project is to give you practice writing raw Java code using the necessary classes provided by the Android framework; therefore, the use of external libraries will not be permitted to complete this project.
